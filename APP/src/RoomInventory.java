@@ -3,7 +3,7 @@
  * CLASS - RoomInventory
  * ============================================================
  *
- * Use Case 9: Error Handling & Validation
+ * Use Case 10: Booking Cancellation & Inventory Rollback
  *
  * Description:
  * This class acts as the single source of truth
@@ -16,7 +16,7 @@
  * keeps responsibilities clearly separated.
  *
  * Author Nikhil0xSec
- * @version 9.0
+ * @version 10.0
  */
 import java.util.HashMap;
 import java.util.Map;
