@@ -3,7 +3,7 @@
  * CLASS - RoomInventory
  * ============================================================
  *
- * Use Case 11: Concurrent Booking Simulation
+ * Use Case 12: Data Persistence & System Recovery
  *
  * Description:
  * This class acts as the single source of truth
